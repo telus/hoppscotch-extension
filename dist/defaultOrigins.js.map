@@ -1,0 +1,1 @@
+{"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAO,MAAM,2CAAsB;IAAC;CAAwB","sources":["src/defaultOrigins.ts"],"sourcesContent":["export const DEFAULT_ORIGIN_LIST = [\"https://hoppscotch.io\"]\n"],"names":[],"version":3,"file":"defaultOrigins.js.map"}
